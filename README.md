@@ -1,4 +1,4 @@
-# OOP Lab 0: Introduction to Version Control (Git & GitHub)
+# OOP Lab 0: Introduction to Version Control
 
 Welcome to the Object-Oriented Programming (OOP) course. This preliminary workshop is designed for 2nd-year Computer Engineering students. Mastering GitHub is a mandatory prerequisite for this course. You will use it continuously to download starter code, execute projects, submit assignments, and collaborate securely.
 
