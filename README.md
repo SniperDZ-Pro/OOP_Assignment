@@ -10,7 +10,7 @@ Welcome to the Object-Oriented Programming (OOP) course. This preliminary worksh
 3. Verify your email address.
 
 ## Part 2: Installing & Linking GitHub Desktop
-1. Download **GitHub Desktop** from [desktop.github.com](https://desktop.github.com/).
+1. Download **GitHub Desktop** from [desktop.github.com](https://desktop.github.com/download/).
 2. Install and launch the application.
 3. Click **Sign in to GitHub.com** and authorize the application in your browser.
 
